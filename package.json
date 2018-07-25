@@ -1,5 +1,5 @@
 {
-  "name": "systemjs-plugin-json5",
+  "name": "plugin-json5",
   "version": "0.1.0",
   "main": "json5",
   "scripts": {
