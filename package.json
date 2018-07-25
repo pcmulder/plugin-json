@@ -1,21 +1,24 @@
 {
-  "name": "systemjs-plugin-json",
-  "version": "0.3.0",
-  "main": "json",
+  "name": "systemjs-plugin-json5",
+  "version": "0.1.0",
+  "main": "json5",
   "scripts": {
     "test": "serve ."
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/systemjs/plugin-json.git"
+    "url": "http://github.com/pcmulder/plugin-json5.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/systemjs/plugin-json/issues"
+    "url": "https://github.com/pcmulder/plugin-json5/issues"
   },
-  "homepage": "https://github.com/systemjs/plugin-json",
+  "homepage": "https://github.com/pcmulder/plugin-json5",
   "devDependencies": {
     "serve": "^3.2.7",
     "systemjs": "^0.20.5"
+  },
+  "dependencies": {
+    "json5": "^1.0.1"
   }
 }
